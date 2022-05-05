@@ -34,11 +34,11 @@ const ContactCode = () => {
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;linkedin:{' '}
         <a
-          href="https://www.linkedin.com/in/nitinranganath/"
+          href="www.linkedin.com/in/mikegonzo"
           target="_blank"
           rel="noopener"
         >
-          nitinranganath
+          mikegonzo
         </a>
         ;
       </p>

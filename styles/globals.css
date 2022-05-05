@@ -85,3 +85,24 @@
 .css-modules:hover {
   background: rgba(21, 114, 182, 0.25);
 }
+
+.html {
+  border: 0.1rem solid rgb(131, 205, 41);
+}
+.html:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+.css {
+  border: 0.1rem solid rgb(131, 205, 41);
+}
+.css:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+.javascript {
+  border: 0.1rem solid rgb(230, 215, 7);
+}
+.javascript:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
