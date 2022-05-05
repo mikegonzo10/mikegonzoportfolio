@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Simple Weater App",
-    "image": "https://imgur.com/bBJMoIL",
+    "image": "https://imgur.com/bBJMoIL.png",
     "description": "Made a super simple weather app that I wanted to test my skills",
     "tags": ["react", "javascript", "html", "css"],
     "demo": "https://mikes-weather-app.netlify.app"
@@ -19,7 +19,7 @@
   {
     "id": 3,
     "name": "Custom Tip Calculator",
-    "image": "https://imgur.com/wY9ECzF",
+    "image": "https://imgur.com/wY9ECzF.png",
     "description": "A custom tipping calulator I made for my girlfriend with her favorite colors. ",
     "tags": ["javascript", "css", "html"],
     "demo": "https://jisela-tip-calculator.netlify.app/"
@@ -27,7 +27,7 @@
   {
     "id": 4,
     "name": "Prolfile Card",
-    "image": "https://imgur.com/WIsi6Dm",
+    "image": "https://imgur.com/WIsi6Dm.png",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["react", "javascript", "html", "css"],
     "demo": "https://mike-custom-profile-card.netlify.app"
@@ -35,7 +35,7 @@
   {
     "id": 5,
     "name": "Github API APP",
-    "image": "https://imgur.com/pZR6re9",
+    "image": "https://imgur.com/pZR6re9.png",
     "description": "A app that allows you to pull live data with github using Axios API Call using light and dark mode",
     "tags": ["react", "javascript", "html", "css", "axios"],
     "demo": "https://gitgub-bkfy71b3m-mikegonzo10.vercel.app/"
@@ -43,7 +43,7 @@
   {
     "id": 6,
     "name": "Github API APP with React-Redux",
-    "image": "https://imgur.com/RsHvec4",
+    "image": "https://imgur.com/RsHvec4.png",
     "description": "A app that allows you to pull live data with github using Axios and React-Redux API Call using light and dark mode",
     "tags": ["react", "javascript", "html", "css", "axios", "react-redux"],
     "demo": "https://github-api-reactredux.netlify.app"
