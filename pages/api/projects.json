@@ -30,8 +30,22 @@
     "image": "/./images/profile-card.png",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["react", "javascript", "html", "css"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
     "demo": "https://mike-custom-profile-card.netlify.app"
+  },
+  {
+    "id": 5,
+    "name": "Github API APP",
+    "image": "/./images/github-api.png",
+    "description": "A app that allows you to pull live data with github using Axios API Call using light and dark mode",
+    "tags": ["react", "javascript", "html", "css", "axios"],
+    "demo": "https://gitgub-bkfy71b3m-mikegonzo10.vercel.app/"
+  },
+  {
+    "id": 6,
+    "name": "Github API APP with React-Redux",
+    "image": "/./images/github-api.png",
+    "description": "A app that allows you to pull live data with github using Axios API Call using light and dark mode",
+    "tags": ["react", "javascript", "html", "css", "axios", "react-redux"],
+    "demo": "https://gitgub-bkfy71b3m-mikegonzo10.vercel.app/"
   }
-  
 ]

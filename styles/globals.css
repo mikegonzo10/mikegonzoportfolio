@@ -106,3 +106,17 @@
 .javascript:hover {
   background: rgba(131, 205, 41, 0.25);
 }
+.axios {
+  border: 0.1rem solid rgb(230, 40, 7);
+}
+.axios:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+.react-redux{
+  border: 0.1rem solid rgb(230, 7, 211);
+}
+.react-redux:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
