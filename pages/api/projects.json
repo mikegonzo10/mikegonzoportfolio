@@ -35,7 +35,7 @@
   {
     "id": 5,
     "name": "Github API APP",
-    "image": "/./images/github-api.png",
+    "image": "blob:https://vercel.com/a257c628-b7c3-407b-b255-2ac5ffb3a36a",
     "description": "A app that allows you to pull live data with github using Axios API Call using light and dark mode",
     "tags": ["react", "javascript", "html", "css", "axios"],
     "demo": "https://gitgub-bkfy71b3m-mikegonzo10.vercel.app/"
@@ -44,8 +44,8 @@
     "id": 6,
     "name": "Github API APP with React-Redux",
     "image": "/./images/github-api.png",
-    "description": "A app that allows you to pull live data with github using Axios API Call using light and dark mode",
+    "description": "A app that allows you to pull live data with github using Axios and React-Redux API Call using light and dark mode",
     "tags": ["react", "javascript", "html", "css", "axios", "react-redux"],
-    "demo": "https://gitgub-bkfy71b3m-mikegonzo10.vercel.app/"
+    "demo": "https://github-api-reactredux.netlify.app"
   }
 ]
