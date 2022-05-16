@@ -51,7 +51,7 @@
   {
     "id": 7,
     "name": "Tic-Tac-Toe App using React Hooks",
-    "image": "https://imgur.com/qoTGV9g",
+    "image": "https://imgur.com/qoTGV9g.png",
     "description": "Tic-Tac-Toe app that uses React Hooks",
     "tags": ["react", "javascript", "html", "css"],
     "demo": "https://mikes-tic-tac-toe-app.netlify.app/"
