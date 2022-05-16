@@ -36,7 +36,7 @@
     "id": 5,
     "name": "Github API APP",
     "image": "https://imgur.com/pZR6re9.png",
-    "description": "A app that allows you to pull live data with github using Axios API Call using light and dark mode",
+    "description": "Pull live data with github using Axios API Call using light and dark mode",
     "tags": ["react", "javascript", "html", "css", "axios"],
     "demo": "https://gitgub-bkfy71b3m-mikegonzo10.vercel.app/"
   },
@@ -44,8 +44,16 @@
     "id": 6,
     "name": "Github API APP with React-Redux",
     "image": "https://imgur.com/RsHvec4.png",
-    "description": "A app that allows you to pull live data with github using Axios and React-Redux API Call using light and dark mode",
+    "description": "Pull live data with github using Axios and React-Redux API Call using light and dark mode",
     "tags": ["react", "javascript", "html", "css", "axios", "react-redux"],
     "demo": "https://github-api-reactredux.netlify.app"
+  },
+  {
+    "id": 7,
+    "name": "Tic-Tac-Toe App using React Hooks",
+    "image": "https://imgur.com/qoTGV9g",
+    "description": "Tic-Tac-Toe app that uses React Hooks",
+    "tags": ["react", "javascript", "html", "css"],
+    "demo": "https://mikes-tic-tac-toe-app.netlify.app/"
   }
 ]
